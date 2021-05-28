@@ -79,7 +79,7 @@ get_download_url_for_version() {
     version="OTP-${version}"
   fi
 
-  echo "https://repo.hex.pm/builds/otp/ubuntu-18.04/${version}.tar.gz"
+  echo "https://repo.hex.pm/builds/otp/ubuntu-20.04/${version}.tar.gz"
 }
 
 
