@@ -1,4 +1,0 @@
-#!/usr/bin/env elixir
-# asdf-plugin: elixir
-Mix.start
-Mix.CLI.main
