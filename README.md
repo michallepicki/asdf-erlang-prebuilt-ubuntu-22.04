@@ -5,5 +5,6 @@ Erlang plugin for [asdf](https://github.com/asdf-vm/asdf) version manager, using
 ## Install
 
 ```
-asdf plugin-add erlang https://github.com/michallepicki/asdf-erlang-prebuilt-ubuntu-22.04.git
+asdf plugin remove erlang
+asdf plugin add erlang https://github.com/michallepicki/asdf-erlang-prebuilt-ubuntu-22.04.git
 ```
